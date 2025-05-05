@@ -1,0 +1,11 @@
+.hlavni-menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.hlavni-menu li {
+    display: inline;
+}
+.hlavni-menu a {
+    text-decoration: none;
+}
